@@ -8,6 +8,9 @@
     "email": "da@feedgee.com"
   },
   "license": "MIT",
+  "scripts": {
+    "start": "hello.js"
+},
   "readmeFilename": "Readme.md",
   "engines": {
     "node": ">= 0.10.x"
