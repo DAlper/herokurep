@@ -1,6 +1,6 @@
 {
   "name": "hello",
-  "version": "1.0",
+  "version": "4.4.1",
   "description": "just hello",
   "main": "hello.js",
   "author": {
@@ -13,6 +13,6 @@
 },
   "readmeFilename": "Readme.md",
   "engines": {
-    "node": ">= 0.10.x"
+    "node": "6.10.1"
   }
 }
